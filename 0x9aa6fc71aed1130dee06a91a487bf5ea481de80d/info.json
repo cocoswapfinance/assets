@@ -1,0 +1,25 @@
+{
+    "name": "Coco Swap",
+    "website": "https://coco-swap.finance",
+    "description": "COCO Swap token will be the fuel behind the Coco Swap decentralized platform. It is a progressive deflatory token build on latest DeFi protocol systems.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/coco_swap"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/cocoswap"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/cocoswapofficial"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x9aa6fc71aed1130dee06a91a487bf5ea481de80d",
+    "type": "BEP20",
+    "symbol": "COCO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9aa6fc71aed1130dee06a91a487bf5ea481de80d"
+}
